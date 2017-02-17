@@ -1,3 +1,9 @@
 git clone https://github.com/kpyang/kyblog.git    // clobe github to local pc
 
 git add "file.name"  // upload command from pc to github.com
+
+git status      // check status of your file - 
+
+git commit -m "first commit" gitcommands.txt   // command to commit changes to a file
+
+git push -u origin master     // command to push local files on pc to github
