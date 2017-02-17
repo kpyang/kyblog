@@ -1,0 +1,3 @@
+git clone https://github.com/kpyang/kyblog.git    // clobe github to local pc
+
+git add "file.name"  // upload command from pc to github.com
